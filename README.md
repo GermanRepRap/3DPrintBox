@@ -7,11 +7,11 @@ The 3DPrintBox enables wireless 3D Printing and print control via Web Browser an
 http://wiki.germanreprap.com/handbuch/3dprintbox
 
 Hardware:
-Raspberry Pi B+ (http://www.raspberrypi.org/products/model-b-plus/)
-Micro SD Card 4GB class10
-Edimax Wlan Stick (http://www.edimax.com/edimax/merchandise/merchandise_detail/data/edimax/global/wireless_adapters_n150/ew-7811un/)
-Plastic box
-Other accessories: Power supply, cabels  
+- Raspberry Pi B+ (http://www.raspberrypi.org/products/model-b-plus/)
+- Micro SD Card 4GB class10
+- Edimax Wlan Stick (http://www.edimax.com/edimax/merchandise/merchandise_detail/data/edimax/global/wireless_adapters_n150/ew-7811un/)
+- Plastic box
+- Other accessories: Power supply, cabels  
 
 The 3DPrintBox Change log:
 v1.0:   PHP based installer
