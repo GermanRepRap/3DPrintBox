@@ -18,7 +18,9 @@ Hardware:
 
 The 3DPrintBox Change log:
 - v1.0: PHP based installer
-            -- Setup your box in the browser for Wlan (including SSID scan)
-            -- automatic update skip included in the browser
+            1. Setup your box in the browser for Wlan (including SSID scan)
+            2. automatic update skip included in the browser
+
+- v1.1: 
             
           
