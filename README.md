@@ -14,7 +14,7 @@ Hardware:
 - Other accessories: Power supply, cabels  
 
 The 3DPrintBox Change log:
-v1.0:   PHP based installer
+- v1.0: PHP based installer
             - Setup your box in the browser for Wlan (including SSID scan)
             - automatic update skip included in the browser
             
